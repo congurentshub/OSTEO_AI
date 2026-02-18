@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+streamlit-chat
+pillow
+torch
+torchvision
+opencv-python
+fpdf
+werkzeug
