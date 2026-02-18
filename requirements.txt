@@ -6,6 +6,6 @@ streamlit-chat
 pillow
 torch
 torchvision
-opencv-python
+opencv-python-headless
 fpdf
 werkzeug
