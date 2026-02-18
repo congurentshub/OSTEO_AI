@@ -1,3 +1,17 @@
+🖼 Sample Test Images Available
+
+Sample medical images have been added to this repository inside the sample_images/ folder to help evaluators quickly test the model.
+
+You can:
+
+Download sample images from the repository
+
+Upload them directly into the web application
+
+View predictions and Grad-CAM visualizations instantly
+
+This ensures smooth and easy evaluation without needing external data.
+
 🔐 Authentication
 
 To access the AI detection module, login is required.
